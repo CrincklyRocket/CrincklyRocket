@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Salih</h1>
+<h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crincklyrocket&label=Profile%20views&color=0e75b6&style=flat" alt="crincklyrocket" /> </p>
